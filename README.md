@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center">My Name is Mateusz Kopowka. Im a Master degree graduate of Computer Science at Siedlce University of Natural Sciences and Humanities. I am a passionate of programming and machine learning</h3>
+<h3 align="center">My Name is Mateusz Kopowka. Im a Master Degree graduate of Computer Science at Siedlce University of Natural Sciences and Humanities. I am a passionate of programming and machine learning</h3>
 
 - 🔭 I’m currently working on [Royal Store](https://github.com/mkopowka/Shop)
 
