@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center">My Name is Mateusz Kopowka. I am a Master degree graduate of Computer Science at Siedlce University of Natural Sciences and Humanities. I am a passionate of programming and machine learning</h3>
+<h3 align="center">My Name is Mateusz Kopowka. Im a Master degree graduate of Computer Science at Siedlce University of Natural Sciences and Humanities. I am a passionate of programming and machine learning</h3>
 
 - 🔭 I’m currently working on [Royal Store](https://github.com/mkopowka/Shop)
 
+- 🌱 I’m currently learning **C#, .NET, .NET Core, Entity Framework Java Script**
+
+- 📫 How to reach me **mkopowka@hotmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mateuszkopowka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mkopowka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mkopowka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mkopowka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
