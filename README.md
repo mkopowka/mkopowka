@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Royal Store](https://github.com/mkopowka/Shop)
 
-- 🌱 I’m currently learning **C#, .NET, .NET Core, Entity Framework Java Script**
+- 🌱 I’m currently learning **C#, .NET, .NET Core, Entity Framework, Java Script**
 
 - 📫 How to reach me **mkopowka@hotmail.com**
 
