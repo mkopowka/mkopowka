@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on web apps like [Royal Store](https://github.com/mkopowka/Shop) and  [Photogram](https://github.com/mkopowka/Photogram)
 
-- 🌱 I’m currently learning **C#, .NET, ASP.NET, .NET Core, Entity Framework, Java Script**
+- 🌱 I’m currently using **C#, .NET, ASP.NET, .NET Core, Entity Framework, JS, TS**
 
 - 📫 How to reach me **mkopowka@hotmail.com**
 
