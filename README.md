@@ -1,8 +1,8 @@
 <h4 align="left">My Name is Mateusz Kopowka. Im a Master Degree graduate of Computer Science at Siedlce University of Natural Sciences and Humanities. I am a passionate of programming and machine learning</h4>
 
-- 🔭 I’m currently working on web apps like [Royal Store](https://github.com/mkopowka/Shop) and  [Photogram](https://github.com/mkopowka/Photogram)
+- I’m currently working on web apps like [Royal Store](https://github.com/mkopowka/Shop) and  [Photogram](https://github.com/mkopowka/Photogram)
 
-- 🌱 I’m currently using **C#, .NET, ASP.NET, .NET Core, Entity Framework, JS, TS**
+- I’m currently using **C#, .NET, ASP.NET, .NET Core, Entity Framework, JS, TS**
 
 - 📫 How to reach me **mkopowka@hotmail.com**
 
