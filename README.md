@@ -2,7 +2,7 @@
 
 - I’m currently working on web apps like [Royal Store](https://github.com/mkopowka/Shop) and  [Photogram](https://github.com/mkopowka/Photogram)
 
-- I’m currently using **C#, .NET, ASP.NET, .NET Core, Entity Framework, JS, TS**
+- I’m currently using/learning **C#, .NET, ASP.NET, .NET Core, Entity Framework, JS, TS, Angular, React**
 
 
 <h5 align="left">Connect with me:</h3>
